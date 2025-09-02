@@ -53,31 +53,31 @@
 
 ![image](https://github.com/user-attachments/assets/c0425f52-2c5e-454c-bbf3-f14f23299544)
 
-This gauge chart monitors the specefic job and the compensation associated for a variety of data analytics jobs.
+  This gauge chart monitors the specefic job and the compensation associated for a variety of data analytics jobs.
   
 - **Jobs Work from Home, Degree or no Degree, and Health Insurance Options Donut Chart**
 
 ![image](https://github.com/user-attachments/assets/ff2cd780-662a-499f-8707-bd9288f68165)
 
-These donut charts show the percentage of work from home availability, if the job mentions a degree or not, and the health insurance options
+  These donut charts show the percentage of work from home availability, if the job mentions a degree or not, and the health insurance options
 
 - **Job Availability and Salary Global Map**
 
 ![image](https://github.com/user-attachments/assets/353dbd07-3535-4836-917f-6f07d9577a66)
 
-This map is incredibly insightful to see how the job market is in certain areas along with the median pay information based on a region. The size of the bubbles for each country represents the wealth of job postings.
+  This map is incredibly insightful to see how the job market is in certain areas along with the median pay information based on a region. The size of the bubbles for each country represents the wealth of job postings.
 
 - **Job Postings from Job Boards Bar Chart:**
 
   ![image](https://github.com/user-attachments/assets/80d87cd9-4cbd-48f9-8f80-4bf8e6c5a823)
 
-This bar chart shows which job boards post the most for a specefic job allowing the searcher to utilize the most popular board for future searching.
+  This bar chart shows which job boards post the most for a specefic job allowing the searcher to utilize the most popular board for future searching.
 
 - **Data Jobs Work Schedule Cluster Field:**
 
   ![image](https://github.com/user-attachments/assets/673b4245-bd18-482f-925c-70cd392d5a36)
 
-This cluster field allows us to see the work schedule a job may typically have.
+  This cluster field allows us to see the work schedule a job may typically have.
 
 ## Conclusion
 
