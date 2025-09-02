@@ -78,3 +78,8 @@ This bar chart shows which job boards post the most for a specefic job allowing 
   ![image](https://github.com/user-attachments/assets/673b4245-bd18-482f-925c-70cd392d5a36)
 
 This cluster field allows us to see the work schedule a job may typically have.
+
+## Conclusion
+
+#### Final Thoughts:
+- Using PowerBI, I was able to understand how this tool can be used in various applications that allows for easy snapshot of complex data. Being creative is a must when using this tool to properly organize and tell a story about a certain data set. There are many more applications to be used and to showcase in various fields such as healthcare, energy, retail, and many more but I beleive that using this tool as a foundation for storytelling is imperative for proper understanding of complex data.
