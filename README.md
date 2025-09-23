@@ -131,7 +131,7 @@ Now this chart would pair perfectly with the previous chart because it would all
 ## Conclusion
 
 #### Using With Other Programs
--  I can see how valuable this is when paired with other programs such as SQL or Python to extract the raw data and then visualize and adapt the data in Power BI. It not only leads to important decisions from stakeholders but allows anyone to interpret large amounts of data that looks intimidating at first that you may see with millions of rows in an excel file. Combining both these tools with AI can dramatically improve and decrease decision making in businesses and in real life applications 
+-  I can see how valuable this is when paired with other programs such as SQL or Python to extract the raw data and then visualize and adapt the data in Power BI. It not only leads to important decisions from stakeholders but allows anyone to interpret large amounts of data that looks intimidating at first that you may see with millions of rows in an excel file. Combining both these tools with AI can dramatically improve clarity and decrease decision making time in businesses and in real life applications 
 
 #### Final Thoughts:
 - Using Power BI, I was able to understand how this tool can be used in various applications that allows for easy snapshot of complex data. Being creative is a must when using this tool to properly organize and tell a story about a certain data set. There are many more applications to be used and to showcase in various fields such as healthcare, energy, retail, and many more but I believe that using this tool as a foundation for storytelling is imperative for proper understanding of complex data.
