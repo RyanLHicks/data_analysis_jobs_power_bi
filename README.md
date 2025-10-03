@@ -4,19 +4,16 @@
 
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/6e52cd85-b1f9-426e-b590-ffa7165cf907" />
 
-
-
 ## Introduction
 
-#### Goals:
+#### 🗂️Background:
+- This is a 4 part learning series to understand the big 4 tools for data analysts: SQL, Python, Excel, and Power BI. I want to utilize this program to enhance my understanding of how manipulate various data points for storytelling to make decisions in the real-world.
+- I will be analyzing the job data market by implementing data sets and preparing charts, slicers, and graphs.
+  
+#### 🎯Goals:
 - Make a powerful visualization for data analytic jobs around the world
 - Where to focus on my current skills and education to maximize my earnings potential
 - Conceptualize data analytics jobs and filter each job individually for quick statistics for average pay, location, degree requirements, segmented job volume, and other important information
-
-#### Skills Showcase:
-- Power BI visualization
-- Git
-- GitHub
 
 ## Data Jobs Project
 
@@ -130,10 +127,20 @@ Now this chart would pair perfectly with the previous chart because it would all
 
 ## Conclusion
 
-#### Using With Other Programs
+#### ➡️💻 Using With Other Programs
 -  I can see how valuable this is when paired with other programs such as SQL or Python to extract the raw data and then visualize and adapt the data in Power BI. It not only leads to important decisions from stakeholders but allows anyone to interpret large amounts of data that looks intimidating at first that you may see with millions of rows in an excel file. Combining both these tools with AI can dramatically improve clarity and decrease decision making time in businesses and in real life applications 
 
-#### Final Thoughts:
+#### 📢Final Thoughts:
 - Using Power BI, I was able to understand how this tool can be used in various applications that allows for easy snapshot of complex data. Being creative is a must when using this tool to properly organize and tell a story about a certain data set. There are many more applications to be used and to showcase in various fields such as healthcare, energy, retail, and many more but I believe that using this tool as a foundation for storytelling is imperative for proper understanding of complex data.
+
+#### 🧠Skills Learned:
+- Power BI visualization
+- Git
+- GitHub
+
+#### 💻Sources
+- [Luke Barrouse](https://www.youtube.com/c/LukeBarousse)
+- 
+- 
 
   
