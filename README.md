@@ -140,7 +140,6 @@ Now this chart would pair perfectly with the previous chart because it would all
 
 #### 💻Sources
 - [Luke Barrouse](https://www.youtube.com/c/LukeBarousse)
-- 
-- 
+- [Data](https://huggingface.co/datasets/lukebarousse/data_jobs)
 
   
